@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-hil4xa.catheys.org/sitemap.xml
